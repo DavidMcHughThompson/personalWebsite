@@ -3,7 +3,7 @@
 List of features and things to do:
 GitHub repository, with:
 More than one branch (including main/master), with descriptive branch name(s) (YES)
-(NO)More than one commit, with descriptive commit messages (NO)
+(YES)More than one commit, with descriptive commit messages (NO)
 (YES)A descriptive Readme file (YES)
 A functional website that fulfills the requirements, and includes:
 (YES)three pages: home, about, work/portfolio (Yes)
