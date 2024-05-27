@@ -3,12 +3,12 @@
 List of features and things to do:
 GitHub repository, with:
 More than one branch (including main/master), with descriptive branch name(s) (YES)
-More than one commit, with descriptive commit messages (NO)
-A descriptive Readme file (YES)
+(NO)More than one commit, with descriptive commit messages (NO)
+(YES)A descriptive Readme file (YES)
 A functional website that fulfills the requirements, and includes:
-three pages: home, about, work/portfolio (Yes)
-A persistent header with links (NO)
-Personalized content, including both formatted text and images (NO)
-Basic CSS styling, included via an external file (EHHH)
-A call to console.log with the string "Hello World" which is loaded into all of pages on your site as an external script. (YES)
-HTML/CSS/JavaScript files submitted via a GitHub repository (REPO EXISTS)
+(YES)three pages: home, about, work/portfolio (Yes)
+(YES)A persistent header with links (NO)
+(NO)Personalized content, including both formatted text and images (NO)
+(NO)Basic CSS styling, included via an external file (EHHH)
+(YES)A call to console.log with the string "Hello World" which is loaded into all of pages on your site as an external script. (YES)
+(YES)HTML/CSS/JavaScript files submitted via a GitHub repository (REPO EXISTS)
